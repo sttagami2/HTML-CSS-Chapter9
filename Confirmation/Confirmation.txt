@@ -1,0 +1,8 @@
+問1：Font Awesomeで「Twitter」と「Facebook」のアイコンを挿入し、サイズを32pxに変更してください。
+Answer：Q1.html 及び　Q1.css にて解答致します。
+
+問2：挿入されたFont Awesomeアイコンを囲むように<div>タグを設定し、class名をpositionとしてください。
+Answer：Q2.html 及び Q2.css にて解答致します。
+
+問3：class名「position」をセレクタとして、「Twitter」と「Facebook」のアイコンを右側から40pxで上側から100pxの場所へpositionを使って移動してください。
+Answer:Q3.html 及び　Q3.css にて解答致します。
