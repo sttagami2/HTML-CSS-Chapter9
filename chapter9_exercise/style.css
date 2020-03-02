@@ -4,3 +4,57 @@
     box-sizing: border-box;
     color: #6c6b6b;
 }
+
+h2, p {
+    color: black;
+}
+
+.container {
+    width: 960px;
+    margin: 50px 0;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.fram {
+    width: 300px;
+    float: left;
+    position: relative;
+    border: 1px solid rgb(228, 228, 228);
+    /* outline: 1px solid rgb(228, 228, 228);
+    outline-offset: -1px; */
+    margin: 50px 30px 50px 0px;
+    position: relative;
+}
+.fram:last-child {
+    margin: 50px 0px 50px 0px;
+}
+
+.step {
+    position: absolute;
+    background-color: orange;
+    color: white;
+    width: 50px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    top: 0;
+    left: 0;
+}
+
+.box {
+    padding: 10px;
+    margin: 0;
+}
+
+.box > img {
+    text-align: center;
+}
+
+img {
+    width: 280px;
+}
